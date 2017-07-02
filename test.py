@@ -1,1 +1,3 @@
 print ("world")
+
+import numpy
